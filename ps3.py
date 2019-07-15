@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# Problem Set 3: Simulating robots
-# Name: Shirin Amouei
-# Collaborators (discussion): None
-# Time: 12:00
 
 import math
 import random
